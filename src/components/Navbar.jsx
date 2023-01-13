@@ -1,4 +1,5 @@
 import React from "react";
+import {Link, NavLink} from "react-router-dom";
 import CartWidget from "./CartWidget";
 
 const Navbar = () => {
@@ -9,23 +10,20 @@ const Navbar = () => {
                 <div className="col">
                     <nav className="navbar navbar-expand-lg">
                         <div className="container-fluid">
-                            <a className="navbar-brand" href="#"><img src={"images/logo.png"} alt={"Topper"} width={110}/></a>
+                            <Link className="navbar-brand" to={"/"}><img src={"images/logo.png"} alt={"Topper"} width={110}/></Link>
                             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <span className="navbar-toggler-icon"></span>
                             </button>
                             <div className="collapse navbar-collapse" id="navbarNav">
                             <ul className="navbar-nav">
                                 <li className="nav-item">
-                                <a className="nav-link" href="/Mochilas">Home</a>
+                                <NavLink className="nav-link" to={"/category/Indumentaria"}>Indumentaria</NavLink>
                                 </li>
                                 <li className="nav-item">
-                                <a className="nav-link" href="/Trajes-de-baño">Indumentaria</a>
+                                <NavLink className="nav-link" to={"/category/Accesorios"}>Accesorios</NavLink>
                                 </li>
                                 <li className="nav-item">
-                                <a className="nav-link" href="/Camperas">Accesorios</a>
-                                </li>
-                                <li className="nav-item">
-                                <a className="nav-link" href="/Zapatillas">Calzado</a>
+                                <NavLink className="nav-link" to={"/category/Calzado"}>Calzado</NavLink>
                                 </li>
                             </ul>
                             </div>

@@ -1,0 +1,73 @@
+[
+{
+    "id": 1, 
+    "nombre": "Botines San Ciro V TF",
+    "descripcion": "Nuestro calzado histórico que se renueva, sin perder su historia", 
+    "imagen": "https://topperarg.vtexassets.com/arquivos/ids/280928-800-800?width=800&height=800&aspect=true", 
+    "precio": 12980, 
+    "stock": 10, 
+    "categoria": "Calzado"
+},{
+    "id": 2, 
+    "nombre": "Zapatillas Zurich Kids", 
+    "descripcion": "Un calzado muy versatil y comodo." , 
+    "imagen": "https://topperarg.vtexassets.com/arquivos/ids/270330-800-800?width=800&height=800&aspect=true", 
+    "precio": 12599, 
+    "stock": 8, 
+    "categoria": "Calzado"
+},{
+    "id": 3, 
+    "nombre": "Zapatillas Costa", 
+    "descripcion": "Renovamos nuestra familia de productos Tenis Retro con este calzado bien urbano y canchero.", 
+    "imagen": "https://topperarg.vtexassets.com/arquivos/ids/270444-800-800?width=800&height=800&aspect=true", 
+    "precio": 16000, 
+    "stock": 10, 
+    "categoria": "Calzado"
+},{
+    "id": 4, 
+    "nombre": "Piluso Mundial", 
+    "descripcion": "Elegante sombrero tipo pescador confeccionado en tela de polyester y algodón que otorga una sensación de confort.",
+    "imagen": "https://topperarg.vtexassets.com/arquivos/ids/291030-800-800?width=800&height=800&aspect=true", 
+    "precio": 3999, 
+    "stock": 9, 
+    "categoria": "Accesorios"
+},{
+    "id": 5, 
+    "nombre": "Mochila Heritage Kids II Topper", 
+    "descripcion": "Mochila urbana. Posee un amplio compartimento principal. Tiras de hombro acolchadas con corte recto. Bolsillo frontal. Grifa cosida Topper retro. Capacidad: 15.9 Litro", 
+    "imagen": "https://topperarg.vtexassets.com/arquivos/ids/259164-800-800?width=800&height=800&aspect=true", 
+    "precio": 5199, 
+    "stock": 5, 
+    "categoria": "Accesorios"
+},{
+    "id": 6, 
+    "nombre": "Pelota Campo - Street VII", 
+    "descripcion": "Pelota de fútbol 32 gajos, cosida a mano.c", 
+    "imagen": "https://topperarg.vtexassets.com/arquivos/ids/259205-800-800?width=800&height=800&aspect=true",
+    "precio": 5699, 
+    "stock": 7, 
+    "categoria":"Accesorios"
+},{
+    "id": 7, 
+    "nombre": "Campera Running Crinkled",
+    "descripcion": "Campera liviana con capucha",
+    "imagen": "https://topperarg.vtexassets.com/arquivos/ids/288803-800-800?width=800&height=800&aspect=true",
+    "precio": 14999, 
+    "stock": 7, 
+    "categoria": "Indumentaria"
+},{
+    "id": 8, 
+    "nombre": "Conjunto con Campera", 
+    "descripcion": "Conjunto con campera con recorte recto en la zona del pecho a contratono.", 
+    "imagen": "https://topperarg.vtexassets.com/arquivos/ids/230785-800-800?width=800&height=800&aspect=true", 
+    "precio": 16599, 
+    "stock": 6 , 
+    "categoria": "Indumentaria"
+},{
+    "id": 9, 
+    "nombre": "Short de Baño Slim", 
+    "descripcion": "Short de baño corto y entallado. Cintura elastizada, bolsillos laterales y suspensor interno. Cordón para mayor ajuste.", "imagen": "https://topperarg.vtexassets.com/arquivos/ids/258941-800-800?width=800&height=800&aspect=true", 
+    "precio": 6399, 
+    "stock": 7, 
+    "categoria": "Indumentaria"
+}]
